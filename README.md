@@ -12,7 +12,6 @@ npm run serve
 
 http://localhost:8080/
 
-Feel free to reach out in case of any issues.
 
 
 ## Project setup
