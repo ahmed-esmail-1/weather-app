@@ -34,4 +34,4 @@ npm run build
 npm run lint
 ```
 
-If you have any issues feel free to reach out.
+## If you have any issues feel free to reach out.
